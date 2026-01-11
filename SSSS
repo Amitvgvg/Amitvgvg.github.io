@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Schedule</title>
+    <link href="StyleSheet3.css" rel="stylesheet" />
+</head>
+
+<body dir="rtl">
+    <h2>My Schedule</h2>
+
+    <table>
+
+        <tr>
+            <th>Hour</th>
+            <th>Sunday</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+        </tr>
+
+       
+        <tr>
+            <td>0</td>
+            <td rowspan="3">Physics</td>
+            <td rowspan="2">Hebrew </td>
+             <td rowspan="3">Computer Science</td>
+            <td>--</td>
+            <td>--</td>
+        </tr>
+
+       
+        <tr>
+            <td>1</td>
+           
+           
+            
+            <td rowspan="2">english</td>
+            <td rowspan="2"> math</td>
+        </tr>
+
+       
+        <tr>
+            <td>2</td>
+           
+            <td>sport</td>
+          
+          
+           
+        </tr>
+
+        <!-- 3 -->
+        <tr>
+            <td>3</td>
+            <td rowspan="2">Math</td>
+            <td rowspan="2">Computer Science</td>
+            <td rowspan="2">citizenship</td>
+            <td rowspan="2">History</td>
+            <td>Literature</td>
+        </tr>
+
+        
+        <tr>
+            <td>4</td>
+            <td>---</td>
+
+        </tr>
+  
+
+       
+        <tr>
+            <td>5</td>
+            <td>Bible</td>
+            <td>team up </td>
+            <td rowspan="2">sciences</td>
+            <td>team up </td>
+            <td>---</td>
+
+
+        </tr>
+
+        
+        <tr>
+            <td>6</td>
+            <td>History</td>
+            <td>Bible</td>
+           
+            <td>sport</td>
+            <td>---</td>
+
+        </tr>
+
+        
+        <tr>
+            <td>7</td>
+            <td>Hebrew</td>
+            <td rowspan="2">English</td>
+            <td>---</td>
+            <td rowspan="3">Math</td>
+            <td>English</td>
+        </tr>
+
+       
+        <tr>
+            <td>8</td>
+            <td>Literature</td>
+           
+            <td>--</td>
+           
+            <td>Bible</td>
+        </tr>
+
+       
+        <tr>
+            <td>9</td>
+            <td>---</td>
+            <td>---</td>
+            <td>---</td>
+           
+            <td>Literature</td>
+        </tr>
+
+        
+        <tr>
+            <td>10</td>
+            <td>---</td>
+            <td rowspan="2">computer science</td>
+            <td>---</td>
+            <td>---</td>
+            <td>---</td>
+        </tr>
+
+        
+        <tr>
+            <td>11</td>
+            <td>---</td>
+           
+            <td>---</td>
+            <td>---</td>
+            <td>---</td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
+
