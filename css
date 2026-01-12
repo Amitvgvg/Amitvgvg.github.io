@@ -1,0 +1,82 @@
+body {
+}
+
+table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+table,td,th{
+    border:2px solid black;
+    text-align:center;
+    padding: 8px;
+  }
+.Math {
+    background-color:antiquewhite;
+}
+
+.English {
+    background-color:forestgreen;
+}
+
+.History {
+    background-color:gray;
+}
+                                 
+.Sport {
+    background-color:brown;
+       }    
+
+.ComputerScience {
+    background-color:burlywood;
+    }
+
+.Hebrew {
+    background-color:sandybrown;
+}
+
+.Bible {
+    background-color: rosybrown;
+
+
+}
+
+.Literature {
+    background-color: lightgray;
+
+
+
+
+}
+
+.Citizenship {
+    background-color:bisque;
+
+
+
+}
+
+.Physics {
+    background-color: darkviolet;
+   
+
+
+
+
+}
+
+.LIfestyle {
+    background-color: cornflowerblue;
+}
+
+.Classtime {
+    background-color: lightgoldenrodyellow;
+
+
+
+
+
+
+}
